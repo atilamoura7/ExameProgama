@@ -1,4 +1,6 @@
-O progama recebe os dados do paciente, exame específico(Glicemia, Colesterol e Triglicerídeo) a partir dos dados inseridos realiza a classificação.
+Disciplina de progamação I
+A partir da classe Abstrata Exame que servirá como um modelo para as demais(ExameGlicemia, ExameColesterol e ExameTriglicerídeo) herdando atributos e comportamentos comuns,
+Utilizando o JOptionPane para receber os dados e criar interação com o usúario, o progama recebe os dados do paciente realizando a classificação  do exame específico.
 
 Exame Glicemia
 
